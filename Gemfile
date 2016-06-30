@@ -48,6 +48,7 @@ group :test do
   gem 'database_cleaner'
   gem 'capybara'
   gem 'launchy'
+  gem 'capybara-webkit'
 end
 
 group :production do
